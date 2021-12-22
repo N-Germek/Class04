@@ -7,3 +7,5 @@ if (amount < 1 && 2) {
 else {
     message = "A true Coffee Connoisseur."
 }
+
+document.write(message);
