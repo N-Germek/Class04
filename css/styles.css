@@ -31,6 +31,15 @@ div {
     display:flex;
     justify-content: space-evenly;
 }
-image {
-    size-adjust: 20%;
+
+nav {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
 }
+
+img {
+    size-adjust: 25%;
+    justify-items: center;
+}
+
