@@ -2,11 +2,11 @@
 h1 {
     margin: 0;
     background-color: chocolate;
-    font-size: large;
+    font-size: 25pt;
     color: rgb(100, 39, 39);
     font-stretch: wider;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
 }
 
@@ -17,29 +17,20 @@ body {
 nav.relative {
     background-position: 0px;
     text-shadow: 5px;
+    justify-content: space-evenly;
 }
 
 h2 {
     color: rgb(100, 39, 39);
     margin-left: 20px;
+    text-align: center;
   }
 
 h3 {
     text-align: center;
 }
+
 div {
     display:flex;
     justify-content: space-evenly;
 }
-
-nav {
-    text-align: center;
-    display: flex;
-    justify-content: space-evenly;
-}
-
-img {
-    size-adjust: 25%;
-    justify-items: center;
-}
-
