@@ -1,11 +1,13 @@
 
 h1 {
+    margin: 0;
     background-color: chocolate;
     font-size: large;
     color: rgb(100, 39, 39);
     font-stretch: wider;
     padding-top: 5px;
     padding-bottom: 5px;
+    text-align: center;
 }
 
 body {
@@ -22,6 +24,13 @@ h2 {
     margin-left: 20px;
   }
 
+h3 {
+    text-align: center;
+}
+div {
+    display:flex;
+    justify-content: space-evenly;
+}
 image {
     size-adjust: 20%;
 }
