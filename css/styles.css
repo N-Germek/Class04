@@ -1,8 +1,11 @@
 
 h1 {
-    background-color: rgb(201, 145, 3);
+    background-color: chocolate;
     font-size: large;
-    color: chocolate;
+    color: rgb(100, 39, 39);
+    font-stretch: wider;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 body {
     background-color: blanchedalmond;
@@ -16,3 +19,6 @@ h2 {
     color: rgb(100, 39, 39);
     margin-left: 20px;
   }
+image {
+    size-adjust: 20%;
+}
