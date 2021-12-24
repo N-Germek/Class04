@@ -19,15 +19,15 @@ if( lightroast < 20 || day == "pastry") {
 }
 
 // Conditionals working together, in groups
-if( (mediumroast < 5 && "pumpkin spice" !== "pastry") || day === "saturday" ) { 
+if( (mediumroast < 5 && "pumpkin spice" !== "pastry") || day === "saturday's drink" ) { 
   console.log("you get dessert");
 }
 
 // Nested conditionals. Here, all things must be true
-if( age < 20 ) { 
-  if (lastMeal !== "pumpkin bread") {
-    if ( day === "saturday") {
-      console.log("wow, that's deep")
+if( darkroadst < 5 ) { 
+  if (lightroast!== "pumpkin spice") {
+    if ( mediumroast === "saturday's drink") {
+      console.log("Happy Saturday, here's your coffee")
     }
   }
 }
